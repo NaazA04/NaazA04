@@ -22,7 +22,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaazA04&show_icons=true&theme=tokyonight" alt="NaazA04's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=NaazA04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=NaazA04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaazA04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
